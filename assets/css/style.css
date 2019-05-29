@@ -163,7 +163,8 @@ button:active {
         margin-right: 300px;
     }
 
-    .h1-p {
+    .h1-p,
+    .h1-c {
         margin-left: 20px;
     }
 
@@ -200,10 +201,6 @@ button:active {
 
     button {
         border: 1px solid black;
-    }
-
-    .h1-c {
-        margin-left: 20px;
     }
 }
 
